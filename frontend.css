@@ -1,0 +1,71 @@
+.top-left {
+    position: absolute;
+    top: 100px;
+    left: 56px;
+    font-size: 40px;
+    color: white;
+  } 
+  .top-left-paragraf {
+    position: absolute;
+    top: 220px;
+    left: 56px;
+    font-size: 15px;
+    color: white;
+  } 
+  .top-left-btn {
+    position: absolute;
+    top: 280px;
+    left: 56px;
+    font-size: 15px;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    border:none;
+  }
+
+  main {
+    background-color: gray;
+  }
+  
+  .card-title {
+    color: white;
+    margin-bottom: 0 !important;
+  }
+  
+  .card {
+    display: inline-block;
+  }
+
+
+  .item-social {
+     display: inline;
+     float: right;
+     margin: 1px;
+     margin-top: 10px;
+     margin-right: 7px;
+     margin-bottom: 10px;
+  }
+  .link-footer {
+    display: inline;
+    float: left;
+    margin: 5px;
+    color: white;
+    margin-left: 20px;
+    font-size: small;
+    margin-top: 12px;
+  
+  }
+  .copyright {
+    position: relative;
+    height: 40px;
+    margin-bottom: 1px;
+  }
+
+
+  #inner2{
+    float:left; 
+    clear: left;
+    background-color: black;
+    height: 80px;
+    width: 100%;
+}
