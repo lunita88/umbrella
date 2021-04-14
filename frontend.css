@@ -68,4 +68,15 @@
     background-color: black;
     height: 80px;
     width: 100%;
-}
+  }
+  .onClickText{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-left: 200px;
+    color: white;
+    display: none;
+    
+  }
+  
+  
